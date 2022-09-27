@@ -1,0 +1,2 @@
+# gitBasic
+Practicing git
