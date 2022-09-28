@@ -1,0 +1,6 @@
+time/shift invariant 
+systems
+time-invariance
+Static and Dynamic systems
+Static - memory-less
+Dynamic - memory system
